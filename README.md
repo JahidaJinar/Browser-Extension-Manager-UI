@@ -1,4 +1,5 @@
 # Frontend Mentor - Browser extensions manager UI
+Visit Site: https://jahidajinar.github.io/Browser-Extension-Manager-UI/
 
 ![Design preview for the Browser extensions manager UI coding challenge](./preview.jpg)
 
